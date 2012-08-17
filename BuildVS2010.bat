@@ -31,6 +31,7 @@ devenv  Build2010.sln /clean "Release|Win32"
 devenv  Build2010.sln /clean "Release Unicode|Win32"
 devenv  Build2010.sln /clean "Release DLL|Win32"
 devenv  Build2010.sln /clean "Release Static|Win32"
+devenv  Build2010.sln /clean "Installer|Win32"
 goto :exit
 
 :Build
@@ -48,7 +49,13 @@ devenv  Build2010.sln /build "Release|Win32"
 devenv  Build2010.sln /build "Release Unicode|Win32"
 devenv  Build2010.sln /build "Release DLL|Win32"
 devenv  Build2010.sln /build "Release Static|Win32"
+goto :exit
 
+:BuildMSI
+call BuildVS2010.bat Clean
+call BuildVS2010.bat Build
+devenv  Build2010.sln /build "Installer|Win32"
+del setup.exe
 goto :exit
 
 
