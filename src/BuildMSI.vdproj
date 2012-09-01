@@ -2150,7 +2150,7 @@
             "SourcePath" = "8:..\\lib\\DllPlugInTesteru.exe"
             "TargetName" = "8:DllPlugInTesteru.exe"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2190,7 +2190,7 @@
             "SourcePath" = "8:..\\README"
             "TargetName" = "8:README"
             "Tag" = "8:"
-            "Folder" = "8:_6B0F8B7A33EE4872A382021F6721E14C"
+            "Folder" = "8:_D501ACE8D7B74F95AE86867BF6A768A3"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2290,7 +2290,7 @@
             "SourcePath" = "8:..\\lib\\testrunnerd.dll"
             "TargetName" = "8:testrunnerd.dll"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2550,7 +2550,7 @@
             "SourcePath" = "8:..\\lib\\cppunit_dll.lib"
             "TargetName" = "8:cppunit_dll.lib"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2630,7 +2630,7 @@
             "SourcePath" = "8:..\\COPYING"
             "TargetName" = "8:COPYING"
             "Tag" = "8:"
-            "Folder" = "8:_6B0F8B7A33EE4872A382021F6721E14C"
+            "Folder" = "8:_D501ACE8D7B74F95AE86867BF6A768A3"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2690,7 +2690,7 @@
             "SourcePath" = "8:..\\doc\\makedox.bat"
             "TargetName" = "8:makedox.bat"
             "Tag" = "8:"
-            "Folder" = "8:_B51CF2ED1FA04403993010C976719040"
+            "Folder" = "8:_B3174A2EBE674D87965529C772AA3912"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2710,7 +2710,7 @@
             "SourcePath" = "8:..\\doc\\footer.html"
             "TargetName" = "8:footer.html"
             "Tag" = "8:"
-            "Folder" = "8:_B51CF2ED1FA04403993010C976719040"
+            "Folder" = "8:_B3174A2EBE674D87965529C772AA3912"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2790,7 +2790,7 @@
             "SourcePath" = "8:..\\lib\\DllPlugInTesterd.exe"
             "TargetName" = "8:DllPlugInTesterd.exe"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2830,7 +2830,7 @@
             "SourcePath" = "8:..\\lib\\cppunitd_dll.lib"
             "TargetName" = "8:cppunitd_dll.lib"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2870,7 +2870,7 @@
             "SourcePath" = "8:..\\lib\\cppunit_dll.dll"
             "TargetName" = "8:cppunit_dll.dll"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2950,7 +2950,7 @@
             "SourcePath" = "8:..\\lib\\testrunneru.dll"
             "TargetName" = "8:testrunneru.dll"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2990,7 +2990,7 @@
             "SourcePath" = "8:..\\lib\\ClockerPlugIn.exp"
             "TargetName" = "8:ClockerPlugIn.exp"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3030,7 +3030,7 @@
             "SourcePath" = "8:..\\lib\\ClockerPlugInNtd.exp"
             "TargetName" = "8:ClockerPlugInNtd.exp"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3350,7 +3350,7 @@
             "SourcePath" = "8:..\\lib\\cppunitd.lib"
             "TargetName" = "8:cppunitd.lib"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3370,7 +3370,7 @@
             "SourcePath" = "8:..\\lib\\testrunnerd.pdb"
             "TargetName" = "8:testrunnerd.pdb"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3430,7 +3430,7 @@
             "SourcePath" = "8:..\\lib\\DllPlugInTesterTest.exe"
             "TargetName" = "8:DllPlugInTesterTest.exe"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3490,7 +3490,7 @@
             "SourcePath" = "8:..\\examples\\Makefile.am"
             "TargetName" = "8:Makefile.am"
             "Tag" = "8:"
-            "Folder" = "8:_C09FD5D246734DD1B95F99F933420AA6"
+            "Folder" = "8:_96C9D8C95E94416F82726B3CAC336909"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3550,7 +3550,7 @@
             "SourcePath" = "8:..\\lib\\ClockerPlugInd.lib"
             "TargetName" = "8:ClockerPlugInd.lib"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3570,7 +3570,7 @@
             "SourcePath" = "8:..\\examples\\examples.dsw"
             "TargetName" = "8:examples.dsw"
             "Tag" = "8:"
-            "Folder" = "8:_C09FD5D246734DD1B95F99F933420AA6"
+            "Folder" = "8:_96C9D8C95E94416F82726B3CAC336909"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3690,7 +3690,7 @@
             "SourcePath" = "8:..\\lib\\TestRunner.lib"
             "TargetName" = "8:TestRunner.lib"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3710,7 +3710,7 @@
             "SourcePath" = "8:..\\lib\\testrunnerud.dll"
             "TargetName" = "8:testrunnerud.dll"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3830,7 +3830,7 @@
             "SourcePath" = "8:..\\THANKS"
             "TargetName" = "8:THANKS"
             "Tag" = "8:"
-            "Folder" = "8:_6B0F8B7A33EE4872A382021F6721E14C"
+            "Folder" = "8:_D501ACE8D7B74F95AE86867BF6A768A3"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3850,7 +3850,7 @@
             "SourcePath" = "8:..\\lib\\DllPlugInTesterTestd.exe"
             "TargetName" = "8:DllPlugInTesterTestd.exe"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3910,7 +3910,7 @@
             "SourcePath" = "8:..\\doc\\CppUnit-win.dox"
             "TargetName" = "8:CppUnit-win.dox"
             "Tag" = "8:"
-            "Folder" = "8:_B51CF2ED1FA04403993010C976719040"
+            "Folder" = "8:_B3174A2EBE674D87965529C772AA3912"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -4010,7 +4010,7 @@
             "SourcePath" = "8:..\\lib\\TestPlugInRunnerd.pdb"
             "TargetName" = "8:TestPlugInRunnerd.pdb"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -4090,7 +4090,7 @@
             "SourcePath" = "8:..\\lib\\cppunit_dll.exp"
             "TargetName" = "8:cppunit_dll.exp"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -4110,7 +4110,7 @@
             "SourcePath" = "8:..\\lib\\DllPlugInTesterd_dll.exe"
             "TargetName" = "8:DllPlugInTesterd_dll.exe"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -4150,7 +4150,7 @@
             "SourcePath" = "8:..\\lib\\testrunner.dll"
             "TargetName" = "8:testrunner.dll"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -4190,7 +4190,7 @@
             "SourcePath" = "8:..\\lib\\testrunnerud.exp"
             "TargetName" = "8:testrunnerud.exp"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -4230,7 +4230,7 @@
             "SourcePath" = "8:..\\contrib\\readme.txt"
             "TargetName" = "8:readme.txt"
             "Tag" = "8:"
-            "Folder" = "8:_80FFA2A7014B460E8B284E24FF3D0FE7"
+            "Folder" = "8:_CAE63F5F33FA4916B925DB4DA7D47C65"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -4290,7 +4290,7 @@
             "SourcePath" = "8:..\\lib\\TestPlugInRunnerd.exe"
             "TargetName" = "8:TestPlugInRunnerd.exe"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -4310,7 +4310,7 @@
             "SourcePath" = "8:..\\lib\\ClockerPlugInNtd.lib"
             "TargetName" = "8:ClockerPlugInNtd.lib"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -4370,7 +4370,7 @@
             "SourcePath" = "8:..\\examples\\examples2008.sln"
             "TargetName" = "8:examples2008.sln"
             "Tag" = "8:"
-            "Folder" = "8:_C09FD5D246734DD1B95F99F933420AA6"
+            "Folder" = "8:_96C9D8C95E94416F82726B3CAC336909"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -4470,7 +4470,7 @@
             "SourcePath" = "8:..\\lib\\DllPlugInTesterTestd.pdb"
             "TargetName" = "8:DllPlugInTesterTestd.pdb"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -4510,7 +4510,7 @@
             "SourcePath" = "8:..\\lib\\testrunneru.exp"
             "TargetName" = "8:testrunneru.exp"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -4590,7 +4590,7 @@
             "SourcePath" = "8:..\\README.sourceforge"
             "TargetName" = "8:README.sourceforge"
             "Tag" = "8:"
-            "Folder" = "8:_6B0F8B7A33EE4872A382021F6721E14C"
+            "Folder" = "8:_D501ACE8D7B74F95AE86867BF6A768A3"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -4610,7 +4610,7 @@
             "SourcePath" = "8:..\\lib\\cppunit.lib"
             "TargetName" = "8:cppunit.lib"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -4650,7 +4650,7 @@
             "SourcePath" = "8:..\\lib\\testrunnerd.lib"
             "TargetName" = "8:testrunnerd.lib"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -4730,7 +4730,7 @@
             "SourcePath" = "8:..\\doc\\other_documentation.dox"
             "TargetName" = "8:other_documentation.dox"
             "Tag" = "8:"
-            "Folder" = "8:_B51CF2ED1FA04403993010C976719040"
+            "Folder" = "8:_B3174A2EBE674D87965529C772AA3912"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -4810,7 +4810,7 @@
             "SourcePath" = "8:..\\doc\\FAQ"
             "TargetName" = "8:FAQ"
             "Tag" = "8:"
-            "Folder" = "8:_B51CF2ED1FA04403993010C976719040"
+            "Folder" = "8:_B3174A2EBE674D87965529C772AA3912"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -5190,7 +5190,7 @@
             "SourcePath" = "8:..\\doc\\Doxyfile.in"
             "TargetName" = "8:Doxyfile.in"
             "Tag" = "8:"
-            "Folder" = "8:_B51CF2ED1FA04403993010C976719040"
+            "Folder" = "8:_B3174A2EBE674D87965529C772AA3912"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -5230,7 +5230,7 @@
             "SourcePath" = "8:..\\devtools\\cvs-root-update.py"
             "TargetName" = "8:cvs-root-update.py"
             "Tag" = "8:"
-            "Folder" = "8:_9F12B9636C114A159731CE23A3E7E047"
+            "Folder" = "8:_AA27CC1278FE4AF3B6BC6D5CBEE65401"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -5430,7 +5430,7 @@
             "SourcePath" = "8:..\\AUTHORS"
             "TargetName" = "8:AUTHORS"
             "Tag" = "8:"
-            "Folder" = "8:_6B0F8B7A33EE4872A382021F6721E14C"
+            "Folder" = "8:_D501ACE8D7B74F95AE86867BF6A768A3"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -5490,7 +5490,7 @@
             "SourcePath" = "8:..\\devtools\\cvs-ignore-update.py"
             "TargetName" = "8:cvs-ignore-update.py"
             "Tag" = "8:"
-            "Folder" = "8:_9F12B9636C114A159731CE23A3E7E047"
+            "Folder" = "8:_AA27CC1278FE4AF3B6BC6D5CBEE65401"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -5630,7 +5630,7 @@
             "SourcePath" = "8:..\\lib\\TestRunner.exp"
             "TargetName" = "8:TestRunner.exp"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -5650,7 +5650,7 @@
             "SourcePath" = "8:..\\lib\\DumperPlugIn.dll"
             "TargetName" = "8:DumperPlugIn.dll"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -5670,7 +5670,7 @@
             "SourcePath" = "8:..\\README.CVS"
             "TargetName" = "8:README.CVS"
             "Tag" = "8:"
-            "Folder" = "8:_6B0F8B7A33EE4872A382021F6721E14C"
+            "Folder" = "8:_D501ACE8D7B74F95AE86867BF6A768A3"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -5710,7 +5710,7 @@
             "SourcePath" = "8:..\\NEWS"
             "TargetName" = "8:NEWS"
             "Tag" = "8:"
-            "Folder" = "8:_6B0F8B7A33EE4872A382021F6721E14C"
+            "Folder" = "8:_D501ACE8D7B74F95AE86867BF6A768A3"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -5810,7 +5810,7 @@
             "SourcePath" = "8:..\\lib\\ClockerPlugInd.exp"
             "TargetName" = "8:ClockerPlugInd.exp"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -5850,7 +5850,7 @@
             "SourcePath" = "8:..\\lib\\DllPlugInTester_dll.exe"
             "TargetName" = "8:DllPlugInTester_dll.exe"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -5910,7 +5910,7 @@
             "SourcePath" = "8:..\\lib\\cppunitd_dll.exp"
             "TargetName" = "8:cppunitd_dll.exp"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -6010,7 +6010,7 @@
             "SourcePath" = "8:..\\lib\\ClockerPlugIn.dll"
             "TargetName" = "8:ClockerPlugIn.dll"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -6290,7 +6290,7 @@
             "SourcePath" = "8:..\\lib\\ClockerPlugInd.pdb"
             "TargetName" = "8:ClockerPlugInd.pdb"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -6370,7 +6370,7 @@
             "SourcePath" = "8:..\\BUGS"
             "TargetName" = "8:BUGS"
             "Tag" = "8:"
-            "Folder" = "8:_6B0F8B7A33EE4872A382021F6721E14C"
+            "Folder" = "8:_D501ACE8D7B74F95AE86867BF6A768A3"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -6550,7 +6550,7 @@
             "SourcePath" = "8:..\\lib\\testrunnerd.exp"
             "TargetName" = "8:testrunnerd.exp"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -6730,7 +6730,7 @@
             "SourcePath" = "8:..\\lib\\ClockerPlugIn.lib"
             "TargetName" = "8:ClockerPlugIn.lib"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -6830,7 +6830,7 @@
             "SourcePath" = "8:..\\lib\\ClockerPlugInNtd.dll"
             "TargetName" = "8:ClockerPlugInNtd.dll"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -6890,7 +6890,7 @@
             "SourcePath" = "8:..\\lib\\testrunnerud.lib"
             "TargetName" = "8:testrunnerud.lib"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -6910,7 +6910,7 @@
             "SourcePath" = "8:..\\lib\\testrunneru.lib"
             "TargetName" = "8:testrunneru.lib"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -6970,7 +6970,7 @@
             "SourcePath" = "8:..\\lib\\TestPlugInRunner.exe"
             "TargetName" = "8:TestPlugInRunner.exe"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -7030,7 +7030,7 @@
             "SourcePath" = "8:..\\lib\\DumperPlugInd.pdb"
             "TargetName" = "8:DumperPlugInd.pdb"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -7050,7 +7050,7 @@
             "SourcePath" = "8:..\\lib\\DllPlugInTester.exe"
             "TargetName" = "8:DllPlugInTester.exe"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -7150,7 +7150,7 @@
             "SourcePath" = "8:..\\doc\\cookbook.dox"
             "TargetName" = "8:cookbook.dox"
             "Tag" = "8:"
-            "Folder" = "8:_B51CF2ED1FA04403993010C976719040"
+            "Folder" = "8:_B3174A2EBE674D87965529C772AA3912"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -7350,7 +7350,7 @@
             "SourcePath" = "8:..\\doc\\Money.dox"
             "TargetName" = "8:Money.dox"
             "Tag" = "8:"
-            "Folder" = "8:_B51CF2ED1FA04403993010C976719040"
+            "Folder" = "8:_B3174A2EBE674D87965529C772AA3912"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -7510,7 +7510,7 @@
             "SourcePath" = "8:..\\contrib\\hpux-plugins.patch"
             "TargetName" = "8:hpux-plugins.patch"
             "Tag" = "8:"
-            "Folder" = "8:_80FFA2A7014B460E8B284E24FF3D0FE7"
+            "Folder" = "8:_CAE63F5F33FA4916B925DB4DA7D47C65"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -7530,7 +7530,7 @@
             "SourcePath" = "8:..\\lib\\cppunitd_dll.dll"
             "TargetName" = "8:cppunitd_dll.dll"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -7550,7 +7550,7 @@
             "SourcePath" = "8:..\\lib\\DllPlugInTesterud.exe"
             "TargetName" = "8:DllPlugInTesterud.exe"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -7590,7 +7590,7 @@
             "SourcePath" = "8:..\\devtools\\prepare-cvs.sh"
             "TargetName" = "8:prepare-cvs.sh"
             "Tag" = "8:"
-            "Folder" = "8:_9F12B9636C114A159731CE23A3E7E047"
+            "Folder" = "8:_AA27CC1278FE4AF3B6BC6D5CBEE65401"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -7710,7 +7710,7 @@
             "SourcePath" = "8:..\\examples\\ReadMe.txt"
             "TargetName" = "8:ReadMe.txt"
             "Tag" = "8:"
-            "Folder" = "8:_C09FD5D246734DD1B95F99F933420AA6"
+            "Folder" = "8:_96C9D8C95E94416F82726B3CAC336909"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -7810,7 +7810,7 @@
             "SourcePath" = "8:..\\lib\\DumperPlugInd.dll"
             "TargetName" = "8:DumperPlugInd.dll"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -7830,7 +7830,7 @@
             "SourcePath" = "8:..\\include\\Makefile.am"
             "TargetName" = "8:Makefile.am"
             "Tag" = "8:"
-            "Folder" = "8:_237C987C26844AAE8DB613519C27FE97"
+            "Folder" = "8:_A288B4544DDB446993F2E16A414E3730"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -7950,7 +7950,7 @@
             "SourcePath" = "8:..\\doc\\header.html"
             "TargetName" = "8:header.html"
             "Tag" = "8:"
-            "Folder" = "8:_B51CF2ED1FA04403993010C976719040"
+            "Folder" = "8:_B3174A2EBE674D87965529C772AA3912"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -7970,7 +7970,7 @@
             "SourcePath" = "8:..\\ChangeLog"
             "TargetName" = "8:ChangeLog"
             "Tag" = "8:"
-            "Folder" = "8:_6B0F8B7A33EE4872A382021F6721E14C"
+            "Folder" = "8:_D501ACE8D7B74F95AE86867BF6A768A3"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -8050,7 +8050,7 @@
             "SourcePath" = "8:..\\doc\\Makefile.am"
             "TargetName" = "8:Makefile.am"
             "Tag" = "8:"
-            "Folder" = "8:_B51CF2ED1FA04403993010C976719040"
+            "Folder" = "8:_B3174A2EBE674D87965529C772AA3912"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -8150,7 +8150,7 @@
             "SourcePath" = "8:..\\lib\\DllPlugInTesterd_dll.pdb"
             "TargetName" = "8:DllPlugInTesterd_dll.pdb"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -8270,7 +8270,7 @@
             "SourcePath" = "8:..\\TODO"
             "TargetName" = "8:TODO"
             "Tag" = "8:"
-            "Folder" = "8:_6B0F8B7A33EE4872A382021F6721E14C"
+            "Folder" = "8:_D501ACE8D7B74F95AE86867BF6A768A3"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -8330,7 +8330,7 @@
             "SourcePath" = "8:..\\lib\\ClockerPlugInd.dll"
             "TargetName" = "8:ClockerPlugInd.dll"
             "Tag" = "8:"
-            "Folder" = "8:_19CE713781F64070ADC1E51EBB59E197"
+            "Folder" = "8:_BBE3CA1DFC484E02A0AF4CA81F598F28"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -8470,321 +8470,310 @@
                     "Property" = "8:_D7371DE090AA4F91A21556C69F8818EB"
                         "Folders"
                         {
-                            "{9EF0B969-E518-4E46-987F-47570745A589}:_6B0F8B7A33EE4872A382021F6721E14C"
+                            "{9EF0B969-E518-4E46-987F-47570745A589}:_96C9D8C95E94416F82726B3CAC336909"
                             {
-                            "Name" = "8:cppunit"
+                            "Name" = "8:examples"
                             "AlwaysCreate" = "11:FALSE"
                             "Condition" = "8:"
                             "Transitive" = "11:FALSE"
-                            "Property" = "8:_4AB8674156BA4D18BE376C38A438982E"
+                            "Property" = "8:_C0C86C596E894D1390C84F219BF7A728"
                                 "Folders"
                                 {
-                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_19CE713781F64070ADC1E51EBB59E197"
+                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_453C47B9E7CD4CDBA1999FA7CF9926B6"
                                     {
-                                    "Name" = "8:lib"
+                                    "Name" = "8:simple"
                                     "AlwaysCreate" = "11:FALSE"
                                     "Condition" = "8:"
                                     "Transitive" = "11:FALSE"
-                                    "Property" = "8:_AF5D700B2A4C4DBCBF32250E9A1093FC"
+                                    "Property" = "8:_05502056D4AE42018656BBC0C5EFFB31"
                                         "Folders"
                                         {
                                         }
                                     }
-                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_237C987C26844AAE8DB613519C27FE97"
+                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_4B4D573B87BB42C9BE2DADD3C5792B89"
                                     {
-                                    "Name" = "8:include"
+                                    "Name" = "8:qt"
                                     "AlwaysCreate" = "11:FALSE"
                                     "Condition" = "8:"
                                     "Transitive" = "11:FALSE"
-                                    "Property" = "8:_7A7C484A6D1E4E03992A1544BAA2E513"
+                                    "Property" = "8:_1EF5D91B3FD34F918D5428D6DCA01B16"
                                         "Folders"
                                         {
-                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_2BCD30E38505458BBEDF2ED96277D5AB"
-                                            {
-                                            "Name" = "8:msvc6"
-                                            "AlwaysCreate" = "11:FALSE"
-                                            "Condition" = "8:"
-                                            "Transitive" = "11:FALSE"
-                                            "Property" = "8:_D2C5448ECCD248A291BE904C7831D07E"
-                                                "Folders"
-                                                {
-                                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_29833C0F7D444E3DBD73EB074C59D6D8"
-                                                    {
-                                                    "Name" = "8:DSPlugin"
-                                                    "AlwaysCreate" = "11:FALSE"
-                                                    "Condition" = "8:"
-                                                    "Transitive" = "11:FALSE"
-                                                    "Property" = "8:_46668E72A6E347638C20C076D158560B"
-                                                        "Folders"
-                                                        {
-                                                        }
-                                                    }
-                                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_8C7A91FDB7F546C8A9CD5C116FAE8361"
-                                                    {
-                                                    "Name" = "8:testrunner"
-                                                    "AlwaysCreate" = "11:FALSE"
-                                                    "Condition" = "8:"
-                                                    "Transitive" = "11:FALSE"
-                                                    "Property" = "8:_4045D42A74604D308A6F985861226E78"
-                                                        "Folders"
-                                                        {
-                                                        }
-                                                    }
-                                                }
-                                            }
-                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_FB04FCB5C51A4E50B75C47971FD5CEDA"
-                                            {
-                                            "Name" = "8:cppunit"
-                                            "AlwaysCreate" = "11:FALSE"
-                                            "Condition" = "8:"
-                                            "Transitive" = "11:FALSE"
-                                            "Property" = "8:_3722E281AF2B4BFD81D499A5F0D22A77"
-                                                "Folders"
-                                                {
-                                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_4FAED0B36F4D4798ACA8B16EDB12CBCF"
-                                                    {
-                                                    "Name" = "8:portability"
-                                                    "AlwaysCreate" = "11:FALSE"
-                                                    "Condition" = "8:"
-                                                    "Transitive" = "11:FALSE"
-                                                    "Property" = "8:_E44CE4DDBC974ECB93FFA2BEABB0A3D6"
-                                                        "Folders"
-                                                        {
-                                                        }
-                                                    }
-                                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_8FC1C13B200C4CA5BB4FF02D603EFF92"
-                                                    {
-                                                    "Name" = "8:ui"
-                                                    "AlwaysCreate" = "11:FALSE"
-                                                    "Condition" = "8:"
-                                                    "Transitive" = "11:FALSE"
-                                                    "Property" = "8:_A9E652F01D7A482EA5EDF7363649E758"
-                                                        "Folders"
-                                                        {
-                                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_2921DF733798488A91441C0236FE99DD"
-                                                            {
-                                                            "Name" = "8:qt"
-                                                            "AlwaysCreate" = "11:FALSE"
-                                                            "Condition" = "8:"
-                                                            "Transitive" = "11:FALSE"
-                                                            "Property" = "8:_21637160707A49F9878B851E3C7375EF"
-                                                                "Folders"
-                                                                {
-                                                                }
-                                                            }
-                                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_4D219C178C884F818F9A10421644BAC0"
-                                                            {
-                                                            "Name" = "8:text"
-                                                            "AlwaysCreate" = "11:FALSE"
-                                                            "Condition" = "8:"
-                                                            "Transitive" = "11:FALSE"
-                                                            "Property" = "8:_F187799F0F0644A6B9B60CE87F02AC66"
-                                                                "Folders"
-                                                                {
-                                                                }
-                                                            }
-                                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_D74116E250EF413A9B47C62C86C2B2D8"
-                                                            {
-                                                            "Name" = "8:mfc"
-                                                            "AlwaysCreate" = "11:FALSE"
-                                                            "Condition" = "8:"
-                                                            "Transitive" = "11:FALSE"
-                                                            "Property" = "8:_0B097C483DF446C1BD2B5DAAD38467EB"
-                                                                "Folders"
-                                                                {
-                                                                }
-                                                            }
-                                                        }
-                                                    }
-                                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_BF2FAD9210F74DB5B1B9039464FB5152"
-                                                    {
-                                                    "Name" = "8:plugin"
-                                                    "AlwaysCreate" = "11:FALSE"
-                                                    "Condition" = "8:"
-                                                    "Transitive" = "11:FALSE"
-                                                    "Property" = "8:_9CF62C443B8D49289BE3CE16928BF708"
-                                                        "Folders"
-                                                        {
-                                                        }
-                                                    }
-                                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_C0F698C4545946838D9004B6A32D7B74"
-                                                    {
-                                                    "Name" = "8:tools"
-                                                    "AlwaysCreate" = "11:FALSE"
-                                                    "Condition" = "8:"
-                                                    "Transitive" = "11:FALSE"
-                                                    "Property" = "8:_309E10551308401496EF3C390C938104"
-                                                        "Folders"
-                                                        {
-                                                        }
-                                                    }
-                                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_D5344D76692847C295DF97E91A2A4F9C"
-                                                    {
-                                                    "Name" = "8:extensions"
-                                                    "AlwaysCreate" = "11:FALSE"
-                                                    "Condition" = "8:"
-                                                    "Transitive" = "11:FALSE"
-                                                    "Property" = "8:_27E23363BB5248D594E59CA10C33164C"
-                                                        "Folders"
-                                                        {
-                                                        }
-                                                    }
-                                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_FA4E4880D76F4B099DCAA944489105B8"
-                                                    {
-                                                    "Name" = "8:config"
-                                                    "AlwaysCreate" = "11:FALSE"
-                                                    "Condition" = "8:"
-                                                    "Transitive" = "11:FALSE"
-                                                    "Property" = "8:_259D6B03BCE04AE6BAD751A7AE459B1B"
-                                                        "Folders"
-                                                        {
-                                                        }
-                                                    }
-                                                }
-                                            }
                                         }
                                     }
-                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_80FFA2A7014B460E8B284E24FF3D0FE7"
+                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_6EA0C6ABB5664E758855CFD51798FD9F"
                                     {
-                                    "Name" = "8:contrib"
+                                    "Name" = "8:ClockerPlugIn"
                                     "AlwaysCreate" = "11:FALSE"
                                     "Condition" = "8:"
                                     "Transitive" = "11:FALSE"
-                                    "Property" = "8:_98210E9EE0CE471EBFA479D23B5E8DE9"
+                                    "Property" = "8:_0D125F5DCB3341EE8B4BF58EF2E6D769"
                                         "Folders"
                                         {
-                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_FACF2DB83C57406CBA4FBB69ECB1CADD"
+                                        }
+                                    }
+                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_A4EE8C58798F4E989B5BEE7458E469D9"
+                                    {
+                                    "Name" = "8:DumperPlugIn"
+                                    "AlwaysCreate" = "11:FALSE"
+                                    "Condition" = "8:"
+                                    "Transitive" = "11:FALSE"
+                                    "Property" = "8:_72030E62F36B4AEE96C16217A9979EDE"
+                                        "Folders"
+                                        {
+                                        }
+                                    }
+                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_C1E30C25B817413EA9F7589AB18FCA28"
+                                    {
+                                    "Name" = "8:hierarchy"
+                                    "AlwaysCreate" = "11:FALSE"
+                                    "Condition" = "8:"
+                                    "Transitive" = "11:FALSE"
+                                    "Property" = "8:_D84977251D854AEC8BDB0BD8311B1DAA"
+                                        "Folders"
+                                        {
+                                        }
+                                    }
+                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_C3FD2F67860E42B48AEA90A1FE59E674"
+                                    {
+                                    "Name" = "8:msvc6"
+                                    "AlwaysCreate" = "11:FALSE"
+                                    "Condition" = "8:"
+                                    "Transitive" = "11:FALSE"
+                                    "Property" = "8:_A4D37FCCCC2C4C06BEF12D6F78A16976"
+                                        "Folders"
+                                        {
+                                        }
+                                    }
+                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_E18C3804D64242CB925EB6B5876B7EFC"
+                                    {
+                                    "Name" = "8:cppunittest"
+                                    "AlwaysCreate" = "11:FALSE"
+                                    "Condition" = "8:"
+                                    "Transitive" = "11:FALSE"
+                                    "Property" = "8:_FFD55BD620464828916C4CA0CC11B428"
+                                        "Folders"
+                                        {
+                                        }
+                                    }
+                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_E4580018D4F4446595EE396E8B1B2612"
+                                    {
+                                    "Name" = "8:money"
+                                    "AlwaysCreate" = "11:FALSE"
+                                    "Condition" = "8:"
+                                    "Transitive" = "11:FALSE"
+                                    "Property" = "8:_5930185B9BB94F1C824699D2E74BADC8"
+                                        "Folders"
+                                        {
+                                        }
+                                    }
+                                }
+                            }
+                            "{9EF0B969-E518-4E46-987F-47570745A589}:_A288B4544DDB446993F2E16A414E3730"
+                            {
+                            "Name" = "8:include"
+                            "AlwaysCreate" = "11:FALSE"
+                            "Condition" = "8:"
+                            "Transitive" = "11:FALSE"
+                            "Property" = "8:_7A7C484A6D1E4E03992A1544BAA2E513"
+                                "Folders"
+                                {
+                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_2BCD30E38505458BBEDF2ED96277D5AB"
+                                    {
+                                    "Name" = "8:msvc6"
+                                    "AlwaysCreate" = "11:FALSE"
+                                    "Condition" = "8:"
+                                    "Transitive" = "11:FALSE"
+                                    "Property" = "8:_D2C5448ECCD248A291BE904C7831D07E"
+                                        "Folders"
+                                        {
+                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_29833C0F7D444E3DBD73EB074C59D6D8"
                                             {
-                                            "Name" = "8:xml-xsl"
+                                            "Name" = "8:DSPlugin"
                                             "AlwaysCreate" = "11:FALSE"
                                             "Condition" = "8:"
                                             "Transitive" = "11:FALSE"
-                                            "Property" = "8:_0643167AAFBE4F94A772DAF97980682E"
+                                            "Property" = "8:_46668E72A6E347638C20C076D158560B"
+                                                "Folders"
+                                                {
+                                                }
+                                            }
+                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_8C7A91FDB7F546C8A9CD5C116FAE8361"
+                                            {
+                                            "Name" = "8:testrunner"
+                                            "AlwaysCreate" = "11:FALSE"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "Property" = "8:_4045D42A74604D308A6F985861226E78"
                                                 "Folders"
                                                 {
                                                 }
                                             }
                                         }
                                     }
-                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_9F12B9636C114A159731CE23A3E7E047"
+                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_FB04FCB5C51A4E50B75C47971FD5CEDA"
                                     {
-                                    "Name" = "8:devtools"
+                                    "Name" = "8:cppunit"
                                     "AlwaysCreate" = "11:FALSE"
                                     "Condition" = "8:"
                                     "Transitive" = "11:FALSE"
-                                    "Property" = "8:_F0699D32EE6B45DB9C06607C2819FF8C"
+                                    "Property" = "8:_3722E281AF2B4BFD81D499A5F0D22A77"
                                         "Folders"
                                         {
+                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_4FAED0B36F4D4798ACA8B16EDB12CBCF"
+                                            {
+                                            "Name" = "8:portability"
+                                            "AlwaysCreate" = "11:FALSE"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "Property" = "8:_E44CE4DDBC974ECB93FFA2BEABB0A3D6"
+                                                "Folders"
+                                                {
+                                                }
+                                            }
+                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_8FC1C13B200C4CA5BB4FF02D603EFF92"
+                                            {
+                                            "Name" = "8:ui"
+                                            "AlwaysCreate" = "11:FALSE"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "Property" = "8:_A9E652F01D7A482EA5EDF7363649E758"
+                                                "Folders"
+                                                {
+                                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_2921DF733798488A91441C0236FE99DD"
+                                                    {
+                                                    "Name" = "8:qt"
+                                                    "AlwaysCreate" = "11:FALSE"
+                                                    "Condition" = "8:"
+                                                    "Transitive" = "11:FALSE"
+                                                    "Property" = "8:_21637160707A49F9878B851E3C7375EF"
+                                                        "Folders"
+                                                        {
+                                                        }
+                                                    }
+                                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_4D219C178C884F818F9A10421644BAC0"
+                                                    {
+                                                    "Name" = "8:text"
+                                                    "AlwaysCreate" = "11:FALSE"
+                                                    "Condition" = "8:"
+                                                    "Transitive" = "11:FALSE"
+                                                    "Property" = "8:_F187799F0F0644A6B9B60CE87F02AC66"
+                                                        "Folders"
+                                                        {
+                                                        }
+                                                    }
+                                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_D74116E250EF413A9B47C62C86C2B2D8"
+                                                    {
+                                                    "Name" = "8:mfc"
+                                                    "AlwaysCreate" = "11:FALSE"
+                                                    "Condition" = "8:"
+                                                    "Transitive" = "11:FALSE"
+                                                    "Property" = "8:_0B097C483DF446C1BD2B5DAAD38467EB"
+                                                        "Folders"
+                                                        {
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_BF2FAD9210F74DB5B1B9039464FB5152"
+                                            {
+                                            "Name" = "8:plugin"
+                                            "AlwaysCreate" = "11:FALSE"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "Property" = "8:_9CF62C443B8D49289BE3CE16928BF708"
+                                                "Folders"
+                                                {
+                                                }
+                                            }
+                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_C0F698C4545946838D9004B6A32D7B74"
+                                            {
+                                            "Name" = "8:tools"
+                                            "AlwaysCreate" = "11:FALSE"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "Property" = "8:_309E10551308401496EF3C390C938104"
+                                                "Folders"
+                                                {
+                                                }
+                                            }
+                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_D5344D76692847C295DF97E91A2A4F9C"
+                                            {
+                                            "Name" = "8:extensions"
+                                            "AlwaysCreate" = "11:FALSE"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "Property" = "8:_27E23363BB5248D594E59CA10C33164C"
+                                                "Folders"
+                                                {
+                                                }
+                                            }
+                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_FA4E4880D76F4B099DCAA944489105B8"
+                                            {
+                                            "Name" = "8:config"
+                                            "AlwaysCreate" = "11:FALSE"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "Property" = "8:_259D6B03BCE04AE6BAD751A7AE459B1B"
+                                                "Folders"
+                                                {
+                                                }
+                                            }
                                         }
                                     }
-                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_B51CF2ED1FA04403993010C976719040"
+                                }
+                            }
+                            "{9EF0B969-E518-4E46-987F-47570745A589}:_AA27CC1278FE4AF3B6BC6D5CBEE65401"
+                            {
+                            "Name" = "8:devtools"
+                            "AlwaysCreate" = "11:FALSE"
+                            "Condition" = "8:"
+                            "Transitive" = "11:FALSE"
+                            "Property" = "8:_F0699D32EE6B45DB9C06607C2819FF8C"
+                                "Folders"
+                                {
+                                }
+                            }
+                            "{9EF0B969-E518-4E46-987F-47570745A589}:_B3174A2EBE674D87965529C772AA3912"
+                            {
+                            "Name" = "8:doc"
+                            "AlwaysCreate" = "11:FALSE"
+                            "Condition" = "8:"
+                            "Transitive" = "11:FALSE"
+                            "Property" = "8:_D86FDD4D1AEE471484D0B905B7530D71"
+                                "Folders"
+                                {
+                                }
+                            }
+                            "{9EF0B969-E518-4E46-987F-47570745A589}:_BBE3CA1DFC484E02A0AF4CA81F598F28"
+                            {
+                            "Name" = "8:lib"
+                            "AlwaysCreate" = "11:FALSE"
+                            "Condition" = "8:"
+                            "Transitive" = "11:FALSE"
+                            "Property" = "8:_AF5D700B2A4C4DBCBF32250E9A1093FC"
+                                "Folders"
+                                {
+                                }
+                            }
+                            "{9EF0B969-E518-4E46-987F-47570745A589}:_CAE63F5F33FA4916B925DB4DA7D47C65"
+                            {
+                            "Name" = "8:contrib"
+                            "AlwaysCreate" = "11:FALSE"
+                            "Condition" = "8:"
+                            "Transitive" = "11:FALSE"
+                            "Property" = "8:_98210E9EE0CE471EBFA479D23B5E8DE9"
+                                "Folders"
+                                {
+                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_FACF2DB83C57406CBA4FBB69ECB1CADD"
                                     {
-                                    "Name" = "8:doc"
+                                    "Name" = "8:xml-xsl"
                                     "AlwaysCreate" = "11:FALSE"
                                     "Condition" = "8:"
                                     "Transitive" = "11:FALSE"
-                                    "Property" = "8:_D86FDD4D1AEE471484D0B905B7530D71"
+                                    "Property" = "8:_0643167AAFBE4F94A772DAF97980682E"
                                         "Folders"
                                         {
-                                        }
-                                    }
-                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_C09FD5D246734DD1B95F99F933420AA6"
-                                    {
-                                    "Name" = "8:examples"
-                                    "AlwaysCreate" = "11:FALSE"
-                                    "Condition" = "8:"
-                                    "Transitive" = "11:FALSE"
-                                    "Property" = "8:_C0C86C596E894D1390C84F219BF7A728"
-                                        "Folders"
-                                        {
-                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_453C47B9E7CD4CDBA1999FA7CF9926B6"
-                                            {
-                                            "Name" = "8:simple"
-                                            "AlwaysCreate" = "11:FALSE"
-                                            "Condition" = "8:"
-                                            "Transitive" = "11:FALSE"
-                                            "Property" = "8:_05502056D4AE42018656BBC0C5EFFB31"
-                                                "Folders"
-                                                {
-                                                }
-                                            }
-                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_4B4D573B87BB42C9BE2DADD3C5792B89"
-                                            {
-                                            "Name" = "8:qt"
-                                            "AlwaysCreate" = "11:FALSE"
-                                            "Condition" = "8:"
-                                            "Transitive" = "11:FALSE"
-                                            "Property" = "8:_1EF5D91B3FD34F918D5428D6DCA01B16"
-                                                "Folders"
-                                                {
-                                                }
-                                            }
-                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_6EA0C6ABB5664E758855CFD51798FD9F"
-                                            {
-                                            "Name" = "8:ClockerPlugIn"
-                                            "AlwaysCreate" = "11:FALSE"
-                                            "Condition" = "8:"
-                                            "Transitive" = "11:FALSE"
-                                            "Property" = "8:_0D125F5DCB3341EE8B4BF58EF2E6D769"
-                                                "Folders"
-                                                {
-                                                }
-                                            }
-                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_A4EE8C58798F4E989B5BEE7458E469D9"
-                                            {
-                                            "Name" = "8:DumperPlugIn"
-                                            "AlwaysCreate" = "11:FALSE"
-                                            "Condition" = "8:"
-                                            "Transitive" = "11:FALSE"
-                                            "Property" = "8:_72030E62F36B4AEE96C16217A9979EDE"
-                                                "Folders"
-                                                {
-                                                }
-                                            }
-                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_C1E30C25B817413EA9F7589AB18FCA28"
-                                            {
-                                            "Name" = "8:hierarchy"
-                                            "AlwaysCreate" = "11:FALSE"
-                                            "Condition" = "8:"
-                                            "Transitive" = "11:FALSE"
-                                            "Property" = "8:_D84977251D854AEC8BDB0BD8311B1DAA"
-                                                "Folders"
-                                                {
-                                                }
-                                            }
-                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_C3FD2F67860E42B48AEA90A1FE59E674"
-                                            {
-                                            "Name" = "8:msvc6"
-                                            "AlwaysCreate" = "11:FALSE"
-                                            "Condition" = "8:"
-                                            "Transitive" = "11:FALSE"
-                                            "Property" = "8:_A4D37FCCCC2C4C06BEF12D6F78A16976"
-                                                "Folders"
-                                                {
-                                                }
-                                            }
-                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_E18C3804D64242CB925EB6B5876B7EFC"
-                                            {
-                                            "Name" = "8:cppunittest"
-                                            "AlwaysCreate" = "11:FALSE"
-                                            "Condition" = "8:"
-                                            "Transitive" = "11:FALSE"
-                                            "Property" = "8:_FFD55BD620464828916C4CA0CC11B428"
-                                                "Folders"
-                                                {
-                                                }
-                                            }
-                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_E4580018D4F4446595EE396E8B1B2612"
-                                            {
-                                            "Name" = "8:money"
-                                            "AlwaysCreate" = "11:FALSE"
-                                            "Condition" = "8:"
-                                            "Transitive" = "11:FALSE"
-                                            "Property" = "8:_5930185B9BB94F1C824699D2E74BADC8"
-                                                "Folders"
-                                                {
-                                                }
-                                            }
                                         }
                                     }
                                 }
@@ -8832,7 +8821,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:CPPUnit 1.12.2"
         "ProductCode" = "8:{FB74BDD1-68A0-4B3B-8408-16F5D8898864}"
-        "PackageCode" = "8:{BAF23FB2-B65B-42E1-9421-F168D096CE05}"
+        "PackageCode" = "8:{7BBE16B2-E01A-4532-A25C-8EA89CD1B0B2}"
         "UpgradeCode" = "8:{002B0313-F4C5-4C32-A626-5714C1E6E255}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -8918,7 +8907,7 @@
                                                             "Condition" = "8:"
                                                             "Transitive" = "11:FALSE"
                                                             "ValueTypes" = "3:1"
-                                                            "Value" = "8:[TARGETDIR]cppunit-1.12.2\\cppunit"
+                                                            "Value" = "8:[TARGETDIR]cppunit-1.12.2"
                                                             }
                                                         }
                                                     }
@@ -9022,7 +9011,7 @@
                             "Condition" = "8:"
                             "Transitive" = "11:FALSE"
                             "ValueTypes" = "3:1"
-                            "Value" = "8:[TARGETDIR]cppunit-1.12.2\\cppunit"
+                            "Value" = "8:[TARGETDIR]cppunit-1.12.2"
                             }
                         }
                     }
@@ -9084,41 +9073,6 @@
                             }
                         }
                     }
-                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_2577D4AEF6934C249F4A2F3007B934F9"
-                    {
-                    "Sequence" = "3:200"
-                    "DisplayName" = "8:Installation Folder"
-                    "UseDynamicProperties" = "11:TRUE"
-                    "IsDependency" = "11:FALSE"
-                    "SourcePath" = "8:<VsdDialogDir>\\VsdFolderDlg.wid"
-                        "Properties"
-                        {
-                            "BannerBitmap"
-                            {
-                            "Name" = "8:BannerBitmap"
-                            "DisplayName" = "8:#1001"
-                            "Description" = "8:#1101"
-                            "Type" = "3:8"
-                            "ContextData" = "8:Bitmap"
-                            "Attributes" = "3:4"
-                            "Setting" = "3:1"
-                            "UsePlugInResources" = "11:TRUE"
-                            }
-                            "InstallAllUsersVisible"
-                            {
-                            "Name" = "8:InstallAllUsersVisible"
-                            "DisplayName" = "8:#1059"
-                            "Description" = "8:#1159"
-                            "Type" = "3:5"
-                            "ContextData" = "8:1;True=1;False=0"
-                            "Attributes" = "3:0"
-                            "Setting" = "3:0"
-                            "Value" = "3:1"
-                            "DefaultValue" = "3:1"
-                            "UsePlugInResources" = "11:TRUE"
-                            }
-                        }
-                    }
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_9A8FF0BBB4714EA5A4788912481AF089"
                     {
                     "Sequence" = "3:100"
@@ -9163,6 +9117,41 @@
                             "Setting" = "3:2"
                             "Value" = "8:The installer will guide you through the steps required to install CPPUnit on your computer."
                             "DefaultValue" = "8:#1203"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_CC73C54148E0406697AB4705253D7D15"
+                    {
+                    "Sequence" = "3:200"
+                    "DisplayName" = "8:Installation Folder"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdFolderDlg.wid"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "InstallAllUsersVisible"
+                            {
+                            "Name" = "8:InstallAllUsersVisible"
+                            "DisplayName" = "8:#1059"
+                            "Description" = "8:#1159"
+                            "Type" = "3:5"
+                            "ContextData" = "8:1;True=1;False=0"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:0"
+                            "Value" = "3:1"
+                            "DefaultValue" = "3:1"
                             "UsePlugInResources" = "11:TRUE"
                             }
                         }
